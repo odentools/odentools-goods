@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="378.58599"
-     inkscape:cy="888.65739"
+     inkscape:cx="244.29296"
+     inkscape:cy="835.23836"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -72,23 +72,6 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <clipPath
-       id="clipPath4429"
-       clipPathUnits="userSpaceOnUse">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="250.07269"
-         y="23.449444"
-         id="text4431"
-         sodipodi:linespacing="125%"
-         transform="matrix(0,1,-1,0,0,0)"><tspan
-           sodipodi:role="line"
-           id="tspan4433"
-           x="250.07269"
-           y="23.449444"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:Futura;-inkscape-font-specification:'Futura Bold Oblique';fill:#ffffff">OdenTools</tspan></text>
-    </clipPath>
     <clipPath
        id="clipPath4502"
        clipPathUnits="userSpaceOnUse">
@@ -279,18 +262,6 @@
            style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:Futura;-inkscape-font-specification:'Futura Bold Oblique';fill:#ffffff">OdenTools</tspan></text>
     </clipPath>
     <clipPath
-       id="clipPath4502-8"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         transform="matrix(0,-1,1,0,0,0)"
-         y="505.0762"
-         x="0"
-         height="547.28589"
-         width="744.09448"
-         id="rect4504-8"
-         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
        id="clipPath4584-7"
        clipPathUnits="userSpaceOnUse">
       <rect
@@ -324,6 +295,35 @@
          style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="matrix(0.91400169,-0.40571037,0.40571037,0.91400169,0,0)" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4282">
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4284"
+         width="744.09448"
+         height="547.28589"
+         x="-744.6181"
+         y="-1052.3619"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4307">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4309"
+         y="25.349266"
+         x="252.07269"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:Futura;-inkscape-font-specification:'Futura Bold Oblique';fill:#ffffff"
+           y="25.349266"
+           x="252.07269"
+           id="tspan4311"
+           sodipodi:role="line">OdenTools</tspan></text>
+    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -350,8 +350,8 @@
        id="rect29"
        style="opacity:1;fill:#9f9f9f;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       clip-path="url(#clipPath4429)"
-       y="-5.6872846e-05"
+       clip-path="url(#clipPath4307)"
+       y="1.9999431"
        x="0"
        height="490.71738"
        width="744.09448"
@@ -372,18 +372,18 @@
            id="rect29-5"
            style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <text
-           clip-path="url(#clipPath4502-8)"
+           clip-path="url(#clipPath4282)"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="250.07269"
-           y="23.449444"
+           x="-1307.3655"
+           y="769.96735"
            id="text4300"
            sodipodi:linespacing="125%"
-           transform="matrix(0,-1,1,0,744.61813,1557.4382)"><tspan
+           transform="matrix(0,-1,1,0,0,0)"><tspan
              sodipodi:role="line"
              id="tspan4302"
-             x="250.07269"
-             y="23.449444"
+             x="-1307.3655"
+             y="769.96735"
              style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:Futura;-inkscape-font-specification:'Futura Bold Oblique';fill:#4d4d4d">OdenTools</tspan></text>
         <text
            sodipodi:linespacing="125%"
@@ -766,13 +766,13 @@
     <text
        sodipodi:linespacing="125%"
        id="text4401-2"
-       y="405.8002"
-       x="150.9343"
+       y="399.8002"
+       x="148.9343"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
-         y="405.8002"
-         x="150.9343"
+         y="399.8002"
+         x="148.9343"
          sodipodi:role="line"
          id="tspan6878">さらに 寝屋川 A号館 ＆ 四條畷 1号館 にて 時刻表サイネージが稼働中!</tspan></text>
     <g
@@ -782,67 +782,37 @@
        y="227.53967"
        x="499.23367"
        id="image4291"
-       xlink:href="data:image/png;base64,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
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASgAAAEoCAYAAADrB2wZAAAABHNCSVQICAgIfAhkiAAABkpJREFU eJzt3UuOWzkUBUHL8P63/LyCKg4I4iafIqaNLn2d4OCA+jzP8/wBCPo7/QQAfiJQQJZAAVkCBWQJ FJAlUECWQAFZAgVkCRSQJVBAlkABWQIFZAkUkCVQQJZAAVkCBWQJFJAlUECWQAFZAgVkCRSQJVBA lkABWQIFZAkUkCVQQJZAAVkCBWQJFJAlUECWQAFZ/6afwOfzmX4KRz3P8+t/3339q7+/snr8039/ ZffxV3Zf/7d/f09zggKyBArIEiggS6CALIECsgQKyBIoIGt8B7UyvcNYuX3nM/33374zevv39zQn KCBLoIAsgQKyBArIEiggS6CALIECsvI7qJXTO47pHcv0zmh653X7Tmz68ae/v7ucoIAsgQKyBArI EiggS6CALIECsgQKyLp+B3W707/LNr1jmja9c2KPExSQJVBAlkABWQIFZAkUkCVQQJZAAVl2UMNO 35e0uwM6vdOadvvO6+2coIAsgQKyBArIEiggS6CALIECsgQKyLp+B/X2Hcv0fU7TO6b6zmvX27+/ u5yggCyBArIECsgSKCBLoIAsgQKyBArIyu+gpnc4p03ft3T68afvi5p+/Ld/f09zggKyBArIEigg S6CALIECsgQKyBIoIOvzuJDmaqfvM7r973M3JyggS6CALIECsgQKyBIoIEuggCyBArKu30G9/T6i yz+e/Oub/t3BlW/foTlBAVkCBWQJFJAlUECWQAFZAgVkCRSQdf3v4p3eaZzemZz+/3dN78h23f78 pndI05yggCyBArIECsgSKCBLoIAsgQKyBArIGt9Bnb7PqX5fT/0+q9PPr/76T7v9+3GaExSQJVBA lkABWQIFZAkUkCVQQJZAAVnjO6iV23dOK9P3WdVf3+nfrXv7jm2lft+UExSQJVBAlkABWQIFZAkU kCVQQJZAAVmfJz6EuH0Hsyv+8Yzv1Fbq3x9+5wQFZAkUkCVQQJZAAVkCBWQJFJAlUEDW+A6qvlO5 fedy+v3dNf3+fvt9TNPv/4oTFJAlUECWQAFZAgVkCRSQJVBAlkABWeO/i7e7Q9rdsbgP6rud/t2+ t++4TnOCArIECsgSKCBLoIAsgQKyBArIEigga3wHddrpHdP0Tmp6h1N3+vOd/n69/T4zJyggS6CA LIECsgQKyBIoIEuggCyBArLGfxfvtNM7kPqOavq+o7fflzV9H9P053uaExSQJVBAlkABWQIFZAkU kCVQQJZAAVn5HdT0DmjX9POf3oFN76RWpn+3bnqHtzL978cJCsgSKCBLoIAsgQKyBArIEiggS6CA rNf/Ll59Z7N6ftPPf3pn8+07spX6zmyXExSQJVBAlkABWQIFZAkUkCVQQJZAAVnj90HdvjPZffzp +3am3/+3f767jz/9/k1/P52ggCyBArIECsgSKCBLoIAsgQKyBArIGt9BrdR3JtP37cQ/vqXb75s6 rX5f1mlOUECWQAFZAgVkCRSQJVBAlkABWQIFZOV/F+/0TmP370/fJ7T792+/T+j2ndD085v+/Fac oIAsgQKyBArIEiggS6CALIECsgQKyBrfQdXv49m12pHs7nh237/pHc70zmbX9I7o7f9+nKCALIEC sgQKyBIoIEuggCyBArIECsga30Gt1Hcyp3dIt7/+6fuKbr8vavfxb99JOUEBWQIFZAkUkCVQQJZA AVkCBWQJFJCV30GtnN55TO9cpnc69Z3T9PM77fTrm/5+rzhBAVkCBWQJFJAlUECWQAFZAgVkCRSQ df0O6nandzqn71PaVb/PaPp37ervz2lOUECWQAFZAgVkCRSQJVBAlkABWQIFZNlBDZu+72mlfl/T yvTjnzZ9H9dpTlBAlkABWQIFZAkUkCVQQJZAAVkCBWRdv4Oa3mns2t0Rnd5Rnd453f67dtM7tunH P80JCsgSKCBLoIAsgQKyBArIEiggS6CArPwO6u2/+7Xr9I5qeqdT//xvv49p+vFXnKCALIECsgQK yBIoIEuggCyBArIECsj6PNNDB4AfOEEBWQIFZAkUkCVQQJZAAVkCBWQJFJAlUECWQAFZAgVkCRSQ JVBAlkABWQIFZAkUkCVQQJZAAVkCBWQJFJAlUECWQAFZAgVkCRSQJVBAlkABWQIFZAkUkCVQQJZA AVkCBWQJFJD1H6xiN3l7jHo2AAAAAElFTkSuQmCC "
        preserveAspectRatio="none"
        height="134.3756"
        width="134.3756" />
     <text
        sodipodi:linespacing="120%"
        id="text4401-2-0"
-       y="418.8002"
-       x="150.9343"
+       y="414.8002"
+       x="148.9343"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
          id="tspan4405-0-9"
-         y="418.8002"
-         x="150.9343"
+         y="414.8002"
+         x="148.9343"
          sodipodi:role="line" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
-         y="439.8002"
-         x="150.9343"
+         y="435.8002"
+         x="148.9343"
          sodipodi:role="line"
          id="tspan4326">これらの無料サービスは OdenTools が提供しています。</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
-         y="462.63211"
-         x="150.9343"
+         y="458.63211"
+         x="148.9343"
          sodipodi:role="line"
          id="tspan4270-3">大学のニュースも <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
    id="tspan4328">https://twitter.com/OECU_NEWS</tspan> で配信中です。</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
-         y="483.63214"
-         x="150.9343"
+         y="479.63214"
+         x="148.9343"
          sodipodi:role="line"
          id="tspan6878-6">ぜひ併せてご活用ください。</tspan></text>
   </g>
