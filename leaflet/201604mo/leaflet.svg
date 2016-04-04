@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-167.7663"
-     inkscape:cy="448.24214"
+     inkscape:zoom="0.7"
+     inkscape:cx="378.58599"
+     inkscape:cy="888.65739"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-4"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1278"
      inkscape:window-height="758"
@@ -333,7 +333,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -348,7 +348,7 @@
        height="505.21933"
        width="744.09448"
        id="rect29"
-       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#9f9f9f;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        clip-path="url(#clipPath4429)"
        y="-5.6872846e-05"
@@ -562,7 +562,7 @@
          x="176.70877"
          sodipodi:role="line" /></text>
     <rect
-       style="opacity:1;fill:#9b9b9b;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#7d7d7d;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4681-2"
        width="551.28497"
        height="84.285721"
@@ -590,12 +590,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text4323"
-       y="339.86087"
+       y="312.73825"
        x="161.60422"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff;fill-opacity:1"
-         y="339.86087"
+         y="312.73825"
          x="161.60422"
          id="tspan4325"
          sodipodi:role="line">http://oecu.pw/</tspan></text>
@@ -766,30 +766,84 @@
     <text
        sodipodi:linespacing="125%"
        id="text4401-2"
-       y="456.64792"
-       x="172.98506"
+       y="405.8002"
+       x="150.9343"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
-         id="tspan4405-0"
-         y="456.64792"
-         x="172.98506"
-         sodipodi:role="line">寝屋川 A号館，四條畷 1号館 にもサイネージを設置しています。</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
-         y="478.52292"
-         x="172.98506"
+         y="405.8002"
+         x="150.9343"
          sodipodi:role="line"
-         id="tspan6878">これらの無料サービスは OdenTools プロジェクトが提供しています。</tspan></text>
-    <image
-       y="232.55235"
-       x="478.30725"
-       id="image6791"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALkAAAC5CAYAAAB0rZ5cAAAABHNCSVQICAgIfAhkiAAABKtJREFU eJzt3dtWGzkQBVCTNZ+Hv7b5P+aJWY4jmHZKSOXD3k+J6VvgLCWVUksvx3G8XyDYr90PAN9NyIkn 5MQTcuIJOfGEnHhCTjwhJ56QE0/IiSfkxBNy4gk58YSceEJOPCEnnpATT8iJJ+TE+2f2BV9fX2df 8q+9vb398dnZ5xudOzK6XuXcyrOcvUfl+7JC5c87YiQnnpATT8iJJ+TEm154jswuJEZ2FXGzz+1U FHb6uVUYyYkn5MQTcuIJOfGWFJ4jlYJjdkE0uyicXQTvKpZnX29FITtiJCeekBNPyIkn5MTbVnju Upl6uqKrWtFpumwnRnLiCTnxhJx4Qk68H1d4VrqMZwu7Tu9V7iqCOzGSE0/IiSfkxBNy4m0rPDsV RCsWHKpYUQRXnqU7IznxhJx4Qk48ISfeksKz0xTQ2d3IyvVmd0FnX6/Tz63CSE48ISeekBNPyIn3 chzH++6H6Gj2NikrzmXMSE48ISeekBNPyIm3rfDs1AHstBhQpxV7K/foVGgbyYkn5MQTcuIJOfG2 TbVd8Z5hZbpsxa6FhHbdo3tH1khOPCEnnpATT8iJN73wnP3O4677zn43srJly65CdmTX97TCSE48 ISeekBNPyIn3lB3PyvVmd1pXPEtlumyngnxkRbfUSE48ISeekBNPyIm35B3PXYXTWSuKn+7vcz7j FNqzjOTEE3LiCTnxhJx40wvPTt252bov1HP2ehUrimWLC8GDhJx4Qk48ISfe9Km2lXcZR1I6nrvs Wl220x6gRnLiCTnxhJx4Qk68Je94nlUpKHctENRJ5Xs1+3vfqVNtJCeekBNPyIkn5MTbto/nyOz9 IEdmF1hnn6V7l3bXlFxTbWECISeekBNPyInXfnGhTvedXRh3XzV2xX8EjCg84UFCTjwhJ56QE6/V VNsVRVflfdOzZhdd3Qvos89iH0/4JkJOPCEnnpATb8mqtiuKmtnPctaKLujZc0c67RV69r46nvAg ISeekBNPyInXfqrtM05RrdjVLa1Y0aWtMJITT8iJJ+TEE3LiLZlqWykuzp674t3DTp29XcXeM3al jeTEE3LiCTnxhJx40wvPTvs3Vrb5qOwzevZZKsfNZh9PeGJCTjwhJ56QE699x/OsSqG46/lmdwU7 TXm1uBAsJOTEE3LiCTnxtq1q22m7jU7TRyvvtK6Ybnz2ep06vEZy4gk58YSceEJOvFbbqaxQKc4q ncezui+ctGuxpwojOfGEnHhCTjwhJ96PKzx3LcAzu2tZue8KFheChYSceEJOPCEn3rbCs1NBVFlc qPKuZacptJ32BZ3NSE48ISeekBNPyIm3pPDsNO3yrEqBOrs427UX58gzdmmN5MQTcuIJOfGEnHgv x3G8734I+E5GcuIJOfGEnHhCTjwhJ56QE0/IiSfkxBNy4gk58YSceELONNfr9XK9Xk9/9vH57dfv j/3qvNHxo/OFnCmu1+vlOI7LcRy/hfc4jv9+fX/cx9cecX+P2/t/5sct+Mlat0E/c+zo97fnjz77 P6baMs1Xobz9/LPPPkbo++Puj/nsvvf3/iDkPI1H/la45d/kPI2/CfjlIuT8AEJOvH8BQU6D5MI1 K50AAAAASUVORK5CYII= "
-       preserveAspectRatio="none"
-       height="185"
-       width="185" />
+         id="tspan6878">さらに 寝屋川 A号館 ＆ 四條畷 1号館 にて 時刻表サイネージが稼働中!</tspan></text>
     <g
        id="g6981"
        transform="translate(0,502.76264)" />
+    <image
+       y="227.53967"
+       x="499.23367"
+       id="image4291"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="134.3756"
+       width="134.3756" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text4401-2-0"
+       y="418.8002"
+       x="150.9343"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
+         id="tspan4405-0-9"
+         y="418.8002"
+         x="150.9343"
+         sodipodi:role="line" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
+         y="439.8002"
+         x="150.9343"
+         sodipodi:role="line"
+         id="tspan4326">これらの無料サービスは OdenTools が提供しています。</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
+         y="462.63211"
+         x="150.9343"
+         sodipodi:role="line"
+         id="tspan4270-3">大学のニュースも <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+   id="tspan4328">https://twitter.com/OECU_NEWS</tspan> で配信中です。</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p'"
+         y="483.63214"
+         x="150.9343"
+         sodipodi:role="line"
+         id="tspan6878-6">ぜひ併せてご活用ください。</tspan></text>
   </g>
 </svg>
