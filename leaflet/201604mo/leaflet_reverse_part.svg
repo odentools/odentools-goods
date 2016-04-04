@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.15234"
+   height="547.28589"
+   viewBox="0 0 744.15235 547.2859"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="leaflet_reverse_part.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="361.03808"
+     inkscape:cy="234.25384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="758"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       id="guide325"
+       position="0,338.241281583"
+       orientation="0,744.1523" />
+    <sodipodi:guide
+       id="guide327"
+       position="0,209.044608417"
+       orientation="0,744.1523" />
+    <sodipodi:guide
+       id="guide329"
+       position="459.911438928,0"
+       orientation="547.2859,0" />
+    <sodipodi:guide
+       id="guide331"
+       position="284.240901072,0"
+       orientation="547.2859,0" />
+    <sodipodi:guide
+       id="guide333"
+       position="0,547.28589"
+       orientation="0,744.1523" />
+    <sodipodi:guide
+       id="guide335"
+       position="547.28589,0"
+       orientation="0,744.1523" />
+    <sodipodi:guide
+       id="guide337"
+       position="0,744.15234"
+       orientation="547.2859,0" />
+    <sodipodi:guide
+       id="guide339"
+       position="744.15234,0"
+       orientation="547.2859,0" />
+    <sodipodi:guide
+       position="44.446712,314.15745"
+       orientation="1,0"
+       id="guide510" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4429">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4431"
+         y="23.449444"
+         x="250.07269"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:Futura;-inkscape-font-specification:'Futura Bold Oblique';fill:#ffffff"
+           y="23.449444"
+           x="250.07269"
+           id="tspan4433"
+           sodipodi:role="line">OdenTools</tspan></text>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4584">
+      <rect
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4586"
+         width="259.80878"
+         height="253.79076"
+         x="484.28571"
+         y="-1.7382812e-05" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4584-2">
+      <rect
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4586-3"
+         width="259.80878"
+         height="253.79076"
+         x="484.28571"
+         y="-1.7382812e-05" />
+    </clipPath>
+    <clipPath
+       id="clipPath5229"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="matrix(0.91400169,-0.40571037,0.40571037,0.91400169,0,0)"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5231"
+         width="744.09448"
+         height="505.21933"
+         x="-132.52766"
+         y="207.66061" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4678">
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="-1054.561"
+         x="-744.6181"
+         height="547.28589"
+         width="744.09448"
+         id="rect4680"
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-505.0762)">
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29-5"
+       width="744.09448"
+       height="547.28589"
+       x="0"
+       y="505.0762" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="text4300"
+       y="769.86743"
+       x="-1309.5645"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:70px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       clip-path="url(#clipPath4678)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:Futura;-inkscape-font-specification:'Futura Bold Oblique';fill:#4d4d4d"
+         y="769.86743"
+         x="-1309.5645"
+         id="tspan4302"
+         sodipodi:role="line">OdenTools</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56.000748"
+       y="813.47626"
+       id="text4323-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4325-7"
+         x="56.000748"
+         y="813.47626"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#000000;fill-opacity:1">http://odentools.github.io/</tspan></text>
+  </g>
+  <g
+     transform="translate(0,-505.07624)"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Body">
+    <rect
+       y="553.45874"
+       x="0.17697906"
+       height="84.285721"
+       width="619.97534"
+       id="rect4681-1-5"
+       style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="551.45874"
+       x="0.17697906"
+       height="84.285721"
+       width="619.97534"
+       id="rect4681-1"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="27.354885"
+       y="611.85162"
+       id="text4189-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4191-4"
+         x="27.354885"
+         y="611.85162"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:50px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';fill:#ffffff">OdenTools プロジェクト </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="43.41386"
+       y="686.73419"
+       id="text4358-5"
+       sodipodi:linespacing="140%"><tspan
+         id="tspan5438"
+         sodipodi:role="line"
+         x="43.41386"
+         y="686.73419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:139.99999762%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;text-anchor:start;fill:#1a1a1a">大学生活をちょっと便利に</tspan><tspan
+         id="tspan5450"
+         sodipodi:role="line"
+         x="43.41386"
+         y="701.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:139.99999762%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;text-anchor:start;fill:#1a1a1a">　</tspan><tspan
+         id="tspan5452"
+         sodipodi:role="line"
+         x="43.41386"
+         y="726.2005"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:139.99999762%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;text-anchor:start;fill:#1a1a1a">ソフトウェアやサービスを学生目線で提供する</tspan><tspan
+         id="tspan5448"
+         sodipodi:role="line"
+         x="43.41386"
+         y="757.7005"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:139.99999762%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;text-anchor:start;fill:#1a1a1a">学生による草の根プロジェクト</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.970531"
+       y="867.6181"
+       id="text4401-2-2"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan249"
+         sodipodi:role="line"
+         x="47.970531"
+         y="867.6181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';fill:#000000">私たちは大学の一般的なサークルではありません。</tspan><tspan
+         id="tspan263"
+         sodipodi:role="line"
+         x="47.970531"
+         y="889.4931"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';fill:#000000">やりたい事をやりたい人がやりたい時にやる、自由なプロジェクトです。</tspan><tspan
+         id="tspan267"
+         sodipodi:role="line"
+         x="47.970531"
+         y="911.3681"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';fill:#000000">活動はプログラミングだけに留まりません。良いと思えば何でもします！</tspan><tspan
+         sodipodi:role="line"
+         x="47.970531"
+         y="921.93207"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';fill:#000000"
+         id="tspan471">　</tspan><tspan
+         id="tspan275"
+         sodipodi:role="line"
+         x="47.970531"
+         y="939.4931"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Rounded M+ 2p';-inkscape-font-specification:'Rounded M+ 2p';fill:#000000">ご興味をお持ちの方は... Twitter (@odentools) または ウェブサイトへ</tspan></text>
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'M+ 2p';font-style:normal;font-weight:500;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'M+ 2p Medium';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       id="flowRoot277"
+       xml:space="preserve"><flowRegion
+         id="flowRegion279"><rect
+           y="526.07269"
+           x="366.68536"
+           height="21.213259"
+           width="3.0304577"
+           id="rect281" /></flowRegion><flowPara
+         id="flowPara283" /></flowRoot>    <text
+       sodipodi:linespacing="140%"
+       id="text5456"
+       y="980.27081"
+       x="343.85663"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:139.99999762%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Ultra-Light';text-align:center;text-anchor:middle"
+         id="tspan5593"
+         y="980.27081"
+         x="343.85663"
+         sodipodi:role="line"><tspan
+           id="tspan223"
+           style="font-size:17.5px">バス時刻表サービス　</tspan><tspan
+           style="font-size:15px"
+           id="tspan475">デジタルサイネージ　　</tspan><tspan
+           id="tspan522"
+           style="font-size:17.5px">OSS活動　Web勉強会</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Ultra-Light';text-align:center;text-anchor:middle"
+         y="1002.2371"
+         x="343.85663"
+         sodipodi:role="line"
+         id="tspan494"><tspan
+           id="tspan488"
+           style="font-size:15px">無線LAN自動認証ツール<tspan
+   style="font-size:12.5px"
+   id="tspan483">　 ニュース配信bot</tspan>　大学行事支援　</tspan><tspan
+           id="tspan492"
+           style="font-size:12.5px">就活支援サービス</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12.5px;line-height:139.99999762%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Ultra-Light';text-align:center;text-anchor:middle"
+         y="1020.7035"
+         x="343.85663"
+         sodipodi:role="line"
+         id="tspan457">Linux　RPi　Arduino　HTML5　Perl　PHP　SQL　Docker　Node.js　more...</tspan></text>
+  </g>
+</svg>
