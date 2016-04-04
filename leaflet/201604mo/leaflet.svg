@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="228.17957"
-     inkscape:cy="709.44106"
+     inkscape:zoom="0.35"
+     inkscape:cx="-167.7663"
+     inkscape:cy="448.24214"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1-4"
      showgrid="false"
      inkscape:window-width="1278"
      inkscape:window-height="758"
@@ -333,7 +333,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -379,7 +379,7 @@
            y="23.449444"
            id="text4300"
            sodipodi:linespacing="125%"
-           transform="matrix(0,-1,1,0,744.61813,1563.6372)"><tspan
+           transform="matrix(0,-1,1,0,744.61813,1557.4382)"><tspan
              sodipodi:role="line"
              id="tspan4302"
              x="250.07269"
@@ -388,12 +388,12 @@
         <text
            sodipodi:linespacing="125%"
            id="text4323-6"
-           y="813.47626"
+           y="810.47626"
            x="56.000748"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#000000;fill-opacity:1"
-             y="813.47626"
+             y="810.47626"
              x="56.000748"
              id="tspan4325-7"
              sodipodi:role="line">http://odentools.github.io/</tspan></text>
@@ -401,7 +401,7 @@
       <g
          inkscape:label="Body"
          id="layer2-7"
-         transform="translate(0,-505.07624)">
+         transform="translate(0,-508.07624)">
         <rect
            style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:4.69999981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4681-1-5"
